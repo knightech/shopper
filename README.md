@@ -6,5 +6,5 @@
   
     - localhost:8080/carts - to get id for cart
     
-    - localhost:8080/carts/id/checkout shows the cart at the checkout with discounts applied 
+    - localhost:8080/carts/id/checkout shows the contents of the cart at the checkout with discounts applied 
  
