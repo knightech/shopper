@@ -1,9 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 .gradle/
-.idea/modules.xml
-.idea/shopper.iml
-.idea/vcs.xml
-.idea/workspace.xml
+.idea/
 build/
 out/
 shopper.iml
