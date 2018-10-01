@@ -4,17 +4,17 @@
   
   - H2 database used in test & runtime
 
-####starts the app with dummy data:
+#### starts the app with dummy data:
 ```java
 gradle bootRun
 ```  
 
-####cart at checkout with discounts applied:  
+#### cart at checkout with discounts applied:  
 ```java
 curl http://localhost:8080/carts/7/checkout
 
 ```   
-####cart contents
+#### cart contents
 ```json
 {
     "lineItemList": [
