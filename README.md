@@ -14,7 +14,7 @@ gradle bootRun
 curl http://localhost:8080/carts/7/checkout
 
 ```   
-#### cart contents
+#### cart contents:
 ```json
 {
     "lineItemList": [
